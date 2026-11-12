@@ -1,4 +1,1 @@
-a=5;
-a=10;
-sum=a+b;
-print('sum=',sum);
+print('welcome to app v1.1 added enhanced features')
